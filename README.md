@@ -23,22 +23,6 @@ Install the necessary libraries using pip:
 pip install opencv-python easyocr pillow
 ```
 
-
-Pour fermer un bloc de code en Markdown et retourner à l'éditeur normal, vous devez ajouter une ligne avec trois backticks ``` après le bloc de code. Voici comment cela devrait être formaté :
-
-markdown
-Copier le code
-# LicensePlateRecognizer
-
-A Python-based application that detects and reads vehicle license plates using OpenCV for image processing and EasyOCR for text recognition. This project demonstrates a complete pipeline from image pre-processing to text extraction and visualization.
-
-## Features
-
-- Detect vehicle license plates in images
-- Extract text from license plates using EasyOCR
-- Display results with confidence scores
-- Simple GUI for displaying images using tkinter
-
 ## Usage
 1. Load and Process Image:
 
