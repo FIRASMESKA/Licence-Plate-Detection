@@ -1,4 +1,4 @@
-﻿# License Plate Scanner
+﻿# License Plate Recognizer
 This project demonstrates how to detect and read text from a vehicle's license plate using OpenCV for image processing and EasyOCR for text recognition.
 ## Features
 
