@@ -39,21 +39,6 @@ A Python-based application that detects and reads vehicle license plates using O
 - Display results with confidence scores
 - Simple GUI for displaying images using tkinter
 
-## Requirements
-
-- Python 3.x
-- OpenCV
-- EasyOCR
-- tkinter
-- PIL (Pillow)
-
-## Installation
-
-Install the necessary libraries using pip:
-
-```bash
-pip install opencv-python easyocr pillow
-```
 ## Usage
 1. Load and Process Image:
 
